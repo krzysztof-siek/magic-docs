@@ -11,5 +11,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Say Hello
-        run: echo "Hello, GitHub Actions!"
+      - name: Say Hello Bro
+        run: echo "Hello, GitHub Actions! Im Kris "
