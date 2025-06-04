@@ -4,7 +4,6 @@ import { CodeSnippet } from "../../tools/CodeSnippet";
 import { Quiz } from "../../tools/Quiz";
 import { Resources } from "../../tools/Resources";
 import { MermaidDiagram } from "../../tools/MermaidDiagram";
-import { CodeBlock } from '../../tools/CodeBlock';
 
 export const GithubActionsPage: React.FC = () => {
   return (
